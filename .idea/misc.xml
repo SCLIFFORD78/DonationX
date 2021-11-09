@@ -3,10 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/TempAdmin/AndroidStudioProjects/DonationX/app/src/main/res/layout/app_bar_home.xml" value="0.12777777777777777" />
-        <entry key="..\:/Users/TempAdmin/AndroidStudioProjects/DonationX/app/src/main/res/layout/fragment_about.xml" value="0.18085106382978725" />
-        <entry key="..\:/Users/TempAdmin/AndroidStudioProjects/DonationX/app/src/main/res/layout/fragment_report.xml" value="0.192481884057971" />
-        <entry key="..\:/Users/TempAdmin/AndroidStudioProjects/DonationX/app/src/main/res/menu/nav_drawer_menu.xml" value="0.36615384615384616" />
+        <entry key="..\:/Users/TempAdmin/AndroidStudioProjects/DonationX/app/src/main/res/layout/card_donation.xml" value="0.10157041540020263" />
       </map>
     </option>
   </component>
